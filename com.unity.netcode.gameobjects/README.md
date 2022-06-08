@@ -3,6 +3,9 @@
 [![Forums](https://img.shields.io/badge/unity--forums-multiplayer-blue)](https://forum.unity.com/forums/multiplayer.26/) [![Discord](https://img.shields.io/discord/449263083769036810.svg?label=discord&logo=discord&color=informational)](https://discord.gg/FM8SE9E)
 [![Manual](https://img.shields.io/badge/docs-manual-informational.svg)](https://docs-multiplayer.unity3d.com/netcode/current/about) [![API](https://img.shields.io/badge/docs-api-informational.svg)](https://docs-multiplayer.unity3d.com/netcode/current/api/introduction)
 
+### git url for Unity Package Manager
+https://github.com/bloodrain-games/com.unity.netcode.gameobjects.git?path=/com.unity.netcode.gameobjects#mlapi-relay
+
 Netcode for GameObjects is a Unity package that provides networking capabilities to GameObject & MonoBehaviour workflows. The framework is interoperable with many low-level transports, including the official [Unity Transport Package](https://docs-multiplayer.unity3d.com/transport/current/about).
 
 ### Getting Started
